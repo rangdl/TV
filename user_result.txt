@@ -6,8 +6,8 @@
 江门侨乡生活,http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500
 广东体育,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
-广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 广东卫视,http://111.225.113.109:808/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
 鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
@@ -52,12 +52,12 @@ CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/inde
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
 浙江卫视,http://111.225.113.109:808/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
 湖南卫视,http://111.225.113.109:808/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
 北京卫视,http://111.225.113.109:808/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
-湖北卫视,http://111.225.113.109:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
+湖北卫视,http://111.225.113.109:808/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://111.225.113.109:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
 重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
@@ -65,8 +65,8 @@ CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/inde
 重庆卫视,https://sjlivecdn9.cbg.cn/202406151025/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://111.225.113.109:808/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://124.238.110.59:9999udp://@224.254.200.203:6323
-东方卫视,http://111.225.113.109:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
+东方卫视,http://111.225.113.109:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://111.225.113.109:808/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
 甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
@@ -76,8 +76,8 @@ CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/inde
 海南卫视,http://111.225.113.109:808/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://111.225.113.109:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://111.225.113.109:808/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://111.225.113.109:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
+吉林卫视,http://111.225.113.109:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
 江西卫视,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
 辽宁卫视,http://111.225.113.109:808/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -93,18 +93,18 @@ CCTV-17,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/inde
 山西卫视,http://124.238.110.59:9999udp://@224.254.200.83:8172
 陕西卫视,http://111.225.113.109:808/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
-四川卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
 四川卫视,http://111.225.113.109:808/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://111.225.113.109:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
 深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
+深圳卫视,http://111.225.113.109:808/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=adecabd61718428763
 天津卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/1300.m3u8
 西藏卫视,http://111.225.113.109:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://111.225.113.109:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
-云南卫视,http://111.225.113.109:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
+云南卫视,http://111.225.113.109:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 港·澳·台,#genre#
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
