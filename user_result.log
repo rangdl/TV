@@ -1,7 +1,2 @@
-Name: CCTV-4, URL: http://60.7.56.33:4000/rtp/239.253.92.251:6141$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 92 ms
-Name: CCTV-15, URL: http://101.27.106.176:8888/rtp/239.253.93.154:6322$1920x1080, Date: 2024-09-16, Resolution: 1920x1080, Response Time: 6 ms
-Name: 广东卫视, URL: http://101.27.106.176:8888/rtp/239.253.92.206:8108$1920x1080, Date: 2024-09-16, Resolution: 1920x1080, Response Time: 1 ms
-Name: 河北卫视, URL: http://101.27.106.176:8888/rtp/239.253.92.154:6011$1920x1080, Date: 2024-09-16, Resolution: 1920x1080, Response Time: 4 ms
-Name: 江西卫视, URL: http://101.27.106.176:8888/rtp/239.253.92.19:6145, Date: 2024-09-16, Resolution: None, Response Time: 0 ms
 Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 450 ms
 Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$1920x1080, Date: None, Resolution: 1920x1080, Response Time: 450 ms
